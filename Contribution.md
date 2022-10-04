@@ -2,7 +2,7 @@
 # How to contribute
 
 Fork the repo first, clone it and add your changes, push that to your forked repo and raise a PR.
-You can check out Getting-Started.md for instructions on how to setup.
+You can check out [Getting-Started.md](https://github.com/iamsmruti/the-best-gathering/blob/main/Getting-Started.md) for instructions on how to setup.
 
 
 - Look in the package.json , if you are having the dependency installed already, if not install your dependency.

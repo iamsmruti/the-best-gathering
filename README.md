@@ -16,12 +16,12 @@ This is an Open-Source project, where I am sure people will end up contributing 
 Check out the Contributions.md for instructions on how to contribute your favourite components
 ## Visit
 
-[website](https://linktodocumentation)
+[website](https://the-best-gathering.vercel.app/)
 
 
 ## Contribute
 
 Waiting for your contributions, read the instructions below
 
-[Contributions.md](https://github.com/matiassingers/awesome-readme)
+[Contributions.md](https://github.com/iamsmruti/the-best-gathering/blob/main/Contribution.md)
 
