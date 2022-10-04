@@ -51,7 +51,7 @@ const Home = () => {
                     <Typography sx={{fontSize: '24px', color: '#424242', mt: 2}}>
                         Visit our Repo for instructions on how to contribute.
                     </Typography>
-                    <IconButton>
+                    <IconButton href="https://github.com/iamsmruti/the-best-gathering">
                         <GitHub sx={{fontSize: 'larger'}}/>
                     </IconButton>
                 </Box>
@@ -60,7 +60,7 @@ const Home = () => {
         <Box sx={{bgcolor: 'black', color: 'lightgray', pt: 3, pb: 3}}>
             <Container>
                 <Box>
-                    <Typography align='center'>Made with 💜 by <a style={{textDecoration: 'none', color: purple[400]}} href='#'>iamsmruti</a></Typography>
+                    <Typography align='center'>Made with 💜 by <a style={{textDecoration: 'none', color: purple[400]}} href='https://github.com/iamsmruti'>iamsmruti</a></Typography>
                 </Box>
             </Container>
         </Box>

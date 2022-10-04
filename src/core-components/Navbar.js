@@ -101,7 +101,7 @@ const Navbar = () => {
                     
                     <img style={{height: '50px'}} src={logo}/>
 
-                    <IconButton sx={{ ml: 'auto' }}>
+                    <IconButton href='https://github.com/iamsmruti/the-best-gathering' sx={{ ml: 'auto' }}>
                         <GitHubIcon sx={{ color: 'white', fontSize: 'larger' }} />
                     </IconButton>
                 </Toolbar>
