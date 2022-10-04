@@ -31,7 +31,7 @@ const Navbar = () => {
         {
             title: 'Home',
             icon: <HomeIcon />,
-            path: '/home'
+            path: '/'
         },
         {
             title: 'Cards',

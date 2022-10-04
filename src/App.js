@@ -17,7 +17,7 @@ const App = () => {
         <Route path="/textfields" element={<TextFields />} />
         <Route path="/slider" element={<Sliders />} />
         <Route path="/buttons" element={<Buttons />} />
-        <Route path="/home" element={<Home />} />
+        <Route path="/" element={<Home />} />
       </Routes>
       </Layout>
     </Router>
