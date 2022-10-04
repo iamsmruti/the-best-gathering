@@ -25,3 +25,4 @@ Waiting for your contributions, read the instructions below
 
 [Contributions.md](https://github.com/iamsmruti/the-best-gathering/blob/main/Contribution.md)
 
+You can ⭐️ the repo, if you feel like doing it.

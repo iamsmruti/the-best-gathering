@@ -1,6 +1,8 @@
 
 # How to contribute
 
+You can ⭐️ the repo, if you feel like doing it.
+
 Fork the repo first, clone it and add your changes, push that to your forked repo and raise a PR.
 You can check out [Getting-Started.md](https://github.com/iamsmruti/the-best-gathering/blob/main/Getting-Started.md) for instructions on how to setup.
 
