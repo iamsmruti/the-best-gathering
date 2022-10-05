@@ -8,6 +8,8 @@ const ToggleButton = () => {
     <Stack sx={{p: 2}}>
       <SmrutiToggle />
       <CustomToggle />
+      <CustomToggle />
+      <CustomToggle />
     </Stack>
   )
 }
