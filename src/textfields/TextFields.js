@@ -6,7 +6,7 @@ import VTextfield from './vaishnav/VTextfield'
 
 const TextFields = () => {
   return (
-    <Stack direction={'row'} sx={{ p: 2, justifyContent: 'center' }}>
+    <Stack direction={'row'} sx={{ p: 2, justifyContent: 'space-around' }}>
       <SmrutiTextField />
       <GyanaCustomFields  label='made by meditating panda' color='error' />
       <VTextfield />
