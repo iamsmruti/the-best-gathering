@@ -31,6 +31,18 @@ const Cards = () => {
                 </Stack>
             </Box>
         </Grid>
+
+        <Grid md={3} xs={12}>
+            <Box sx={{width: 'fit-content', mr: 2, mb: 3}}>
+                <Card />
+                <Stack direction={'row'} sx={{pt: 1}} alignItems={'center'} justifyContent={'space-around'}>
+                    <Typography variant="caption">Contributed By Gyana Ranjan Panda</Typography>
+                    <IconButton>
+                        <GitHub />
+                    </IconButton>
+                </Stack>
+            </Box>
+        </Grid>
     </Grid>
   )
 }
