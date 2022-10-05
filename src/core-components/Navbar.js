@@ -21,6 +21,7 @@ import ToggleOnIcon from '@mui/icons-material/ToggleOn';
 import DragHandleIcon from '@mui/icons-material/DragHandle';
 import HomeIcon from '@mui/icons-material/Home';
 import { Link } from 'react-router-dom';
+import AppsIcon from '@mui/icons-material/Apps';
 
 import logo from '../assets/logo.png'
 
@@ -57,6 +58,11 @@ const Navbar = () => {
             title: 'Sliders',
             icon: <TuneIcon />,
             path: '/slider'
+        },
+        {
+            title: 'Icons',
+            icon: <AppsIcon />,
+            path: '/icons'
         }
     ]
 
