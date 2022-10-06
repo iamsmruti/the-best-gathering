@@ -3,7 +3,7 @@ import { Stack } from '@mui/system'
 import React from 'react'
 import HomeIcon from '@mui/icons-material/Home';
 import ShowerIcon from '@mui/icons-material/Shower';
-
+import AbcIcon from '@mui/icons-material/Abc';
 const MaterialUI = () => {
   return (
     <Box>
@@ -13,6 +13,10 @@ const MaterialUI = () => {
             </Box>
             <Box sx={{p: 1}}>
                 <ShowerIcon sx={{fontSize: 'large'}}/>
+            </Box>
+
+            <Box sx={{p: 1}}>
+                <AbcIcon sx={{fontSize: 'large'}}/>
             </Box>
         </Stack>
     </Box>
