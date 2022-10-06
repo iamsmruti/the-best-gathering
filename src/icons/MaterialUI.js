@@ -7,6 +7,7 @@ import AbcIcon from '@mui/icons-material/Abc';
 import AgricultureIcon from '@mui/icons-material/Agriculture';
 import AccountBalanceIcon from '@mui/icons-material/AccountBalance';
 import AddCircleIcon from '@mui/icons-material/AddCircle';
+import AddReactionIcon from '@mui/icons-material/AddReaction';
 const MaterialUI = () => {
   return (
     <Box>
@@ -30,6 +31,9 @@ const MaterialUI = () => {
             </Box>
             <Box sx={{p: 1}}>
                 < AddCircleIcon  sx={{fontSize: 'large'}}/>
+            </Box>
+            <Box sx={{p: 1}}>
+                <  AddReactionIcon  sx={{fontSize: 'large'}}/>
             </Box>
         </Stack>
     </Box>
