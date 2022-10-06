@@ -5,7 +5,7 @@ import HomeIcon from '@mui/icons-material/Home';
 import ShowerIcon from '@mui/icons-material/Shower';
 import AbcIcon from '@mui/icons-material/Abc';
 import AgricultureIcon from '@mui/icons-material/Agriculture';
-
+import AccountBalanceIcon from '@mui/icons-material/AccountBalance';
 const MaterialUI = () => {
   return (
     <Box>
@@ -23,6 +23,9 @@ const MaterialUI = () => {
 
             <Box sx={{p: 1}}>
                 <AgricultureIcon sx={{fontSize: 'large'}}/>
+            </Box>
+            <Box sx={{p: 1}}>
+                < AccountBalanceIcon sx={{fontSize: 'large'}}/>
             </Box>
         </Stack>
     </Box>
