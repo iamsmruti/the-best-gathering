@@ -35,14 +35,29 @@ const Navbar = () => {
             path: '/'
         },
         {
+            title: 'Alerts',
+            icon: <DialpadIcon />,
+            path: '/alerts'
+        },
+        {
             title: 'Cards',
             icon: <StyleIcon />,
             path: '/cards'
         },
         {
+            title: 'Breadcrumbs',
+            icon: <DialpadIcon />,
+            path: '/breadcrumbs'
+        },
+        {
             title: 'Buttons',
             icon: <DialpadIcon />,
             path: '/buttons'
+        },
+        {
+            title: 'Buttons Groups',
+            icon: <DialpadIcon />,
+            path: '/button-groups'
         },
         {
             title: 'TextFields',
