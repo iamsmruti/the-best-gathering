@@ -15,6 +15,7 @@ import AirlineSeatLegroomNormalIcon from '@mui/icons-material/AirlineSeatLegroom
 import BlurLinearIcon from '@mui/icons-material/BlurLinear';
 import AdbIcon from '@mui/icons-material/Adb';
 import AcUnitIcon from '@mui/icons-material/AcUnit';
+import AccessTimeFilledIcon from '@mui/icons-material/AccessTimeFilled';
 
 const MaterialUI = () => {
   return (
@@ -74,7 +75,7 @@ const MaterialUI = () => {
                 <  AirlineSeatLegroomNormalIcon   sx={{fontSize: 'large'}}/>
             </Box>
             <Box sx={{p: 1}}>
-                <  BlurLinearIcon   sx={{fontSize: 'large'}}/>
+                <  AccessTimeFilledIcon   sx={{fontSize: 'large'}}/>
             </Box>
             <Box sx={{p: 1}}>
                 <  AcUnitIcon   sx={{fontSize: 'large'}}/>
