@@ -60,6 +60,24 @@ const MaterialUI = () => {
             <Box sx={{p: 1}}>
                 <  AdbIcon   sx={{fontSize: 'large'}}/>
             </Box>
+            <Box sx={{p: 1}}>
+                <  AirlineSeatLegroomNormalIcon   sx={{fontSize: 'large'}}/>
+            </Box>
+            <Box sx={{p: 1}}>
+                <  BlurLinearIcon   sx={{fontSize: 'large'}}/>
+            </Box>
+            <Box sx={{p: 1}}>
+                <  AdbIcon   sx={{fontSize: 'large'}}/>
+            </Box>
+            <Box sx={{p: 1}}>
+                <  AirlineSeatLegroomNormalIcon   sx={{fontSize: 'large'}}/>
+            </Box>
+            <Box sx={{p: 1}}>
+                <  BlurLinearIcon   sx={{fontSize: 'large'}}/>
+            </Box>
+            <Box sx={{p: 1}}>
+                <  AdbIcon   sx={{fontSize: 'large'}}/>
+            </Box>
         </Stack>
     </Box>
   )
