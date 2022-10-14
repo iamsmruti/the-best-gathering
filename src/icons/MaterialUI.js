@@ -10,6 +10,8 @@ import AddCircleIcon from '@mui/icons-material/AddCircle';
 import AddReactionIcon from '@mui/icons-material/AddReaction';
 import AddModeratorIcon from '@mui/icons-material/AddModerator';
 import AddBusinessIcon from '@mui/icons-material/AddBusiness';
+import AirlineSeatLegroomExtraIcon from '@mui/icons-material/AirlineSeatLegroomExtra';
+
 const MaterialUI = () => {
   return (
     <Box>
@@ -42,6 +44,9 @@ const MaterialUI = () => {
             </Box>
             <Box sx={{p: 1}}>
                 <  AddBusinessIcon   sx={{fontSize: 'large'}}/>
+            </Box>
+             <Box sx={{p: 1}}>
+                <  AirlineSeatLegroomExtraIcon   sx={{fontSize: 'large'}}/>
             </Box>
         </Stack>
     </Box>
