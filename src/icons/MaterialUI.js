@@ -13,6 +13,7 @@ import AddBusinessIcon from '@mui/icons-material/AddBusiness';
 import AirlineSeatLegroomExtraIcon from '@mui/icons-material/AirlineSeatLegroomExtra';
 import AirlineSeatLegroomNormalIcon from '@mui/icons-material/AirlineSeatLegroomNormal';
 import BlurLinearIcon from '@mui/icons-material/BlurLinear';
+import AdbIcon from '@mui/icons-material/Adb';
 
 const MaterialUI = () => {
   return (
@@ -55,6 +56,9 @@ const MaterialUI = () => {
             </Box>
             <Box sx={{p: 1}}>
                 <  BlurLinearIcon   sx={{fontSize: 'large'}}/>
+            </Box>
+            <Box sx={{p: 1}}>
+                <  AdbIcon   sx={{fontSize: 'large'}}/>
             </Box>
         </Stack>
     </Box>
