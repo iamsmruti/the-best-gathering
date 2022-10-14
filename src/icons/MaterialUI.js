@@ -16,6 +16,7 @@ import BlurLinearIcon from '@mui/icons-material/BlurLinear';
 import AdbIcon from '@mui/icons-material/Adb';
 import AcUnitIcon from '@mui/icons-material/AcUnit';
 import AccessTimeFilledIcon from '@mui/icons-material/AccessTimeFilled';
+import AccountBalanceIcon from '@mui/icons-material/AccountBalance';
 
 const MaterialUI = () => {
   return (
@@ -69,7 +70,7 @@ const MaterialUI = () => {
                 <  BlurLinearIcon   sx={{fontSize: 'large'}}/>
             </Box>
             <Box sx={{p: 1}}>
-                <  AdbIcon   sx={{fontSize: 'large'}}/>
+                <  AccountBalanceIcon   sx={{fontSize: 'large'}}/>
             </Box>
             <Box sx={{p: 1}}>
                 <  AirlineSeatLegroomNormalIcon   sx={{fontSize: 'large'}}/>
