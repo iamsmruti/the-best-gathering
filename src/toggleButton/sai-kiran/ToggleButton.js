@@ -1,6 +1,6 @@
 import { Stack } from '@mui/system'
 import React from 'react'
-import SaiToggle from './smruti-ranjan/SmrutiToggle'
+import SaiToggle from './sai-kiran/ToggleButton'
 
 const ToggleButton = () => {
   return (
