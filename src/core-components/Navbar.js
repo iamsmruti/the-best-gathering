@@ -21,6 +21,7 @@ import ToggleOnIcon from '@mui/icons-material/ToggleOn';
 import DragHandleIcon from '@mui/icons-material/DragHandle';
 import HomeIcon from '@mui/icons-material/Home';
 import { Link } from 'react-router-dom';
+import AppsIcon from '@mui/icons-material/Apps';
 
 import logo from '../assets/logo.png'
 
@@ -34,14 +35,29 @@ const Navbar = () => {
             path: '/'
         },
         {
+            title: 'Alerts',
+            icon: <DialpadIcon />,
+            path: '/alerts'
+        },
+        {
             title: 'Cards',
             icon: <StyleIcon />,
             path: '/cards'
         },
         {
+            title: 'Breadcrumbs',
+            icon: <DialpadIcon />,
+            path: '/breadcrumbs'
+        },
+        {
             title: 'Buttons',
             icon: <DialpadIcon />,
             path: '/buttons'
+        },
+        {
+            title: 'Buttons Groups',
+            icon: <DialpadIcon />,
+            path: '/button-groups'
         },
         {
             title: 'TextFields',
@@ -57,6 +73,11 @@ const Navbar = () => {
             title: 'Sliders',
             icon: <TuneIcon />,
             path: '/slider'
+        },
+        {
+            title: 'Icons',
+            icon: <AppsIcon />,
+            path: '/icons'
         }
     ]
 
