@@ -1,4 +1,4 @@
-
+// Importing required libraries
 import React from 'react'
 import 'rsuite/dist/styles/rsuite-default.css';
 import { Toggle } from 'rsuite';
