@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-//ToggleSwitch
+//second ToggleSwitch
 class ToggleSwitch extends Component {
     render() {
         return (
